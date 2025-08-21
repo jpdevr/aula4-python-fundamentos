@@ -7,7 +7,7 @@ print(random.random())
 print("vai ser um número de entre 0 e 1\n\n")
 
 #já o randInt
-print(random.randrange(1, 20))
+print(random.randint(1, 20))
 print("vai ser um número entre 1 e 20\n\n")
 
 #você pode adicionar modificadores usando um randRange, que vai adicionar passos na sua execução
